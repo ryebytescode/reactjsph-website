@@ -1,0 +1,30 @@
+{
+  "name": "Ryu Rabino",
+  "avatar": "https://github.com/ryebytescode.png",
+  "title": "None",
+  "blurb": "Hi, I'm a casual software developer, tech enthusiast, music producer, tinkerer, and problem solver.",
+  "skills": [
+    "Typescript",
+    "React",
+    "React Native",
+    "Electron",
+    "Python",
+    "Flask",
+    "Svelte",
+    "NodeJS"
+  ],
+  "contacts": [
+    {
+      "type": "github",
+      "url": "https://github.com/ryebytescode"
+    },
+    {
+      "type": "twitter",
+      "url": "https://x.com/ryebytescode"
+    },
+    {
+      "type": "email",
+      "url": "mailto:ryebytescode@proton.me"
+    }
+  ]
+}
